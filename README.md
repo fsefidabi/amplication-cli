@@ -26,16 +26,19 @@ $ npm i
 $ npm start
 ```
 
-Application is running on [http://localhost:3000](http://localhost:3000).
+The admin-ui is running on [http://localhost:3000](http://localhost:3000).
 You can login into the Admin UI using below information: 
 
 - Username: admin
 - Password: admin
 
+If you want to try the amplication dashboard, you can use [https://app.amplication.com/](https://app.amplication.com/) to create new project.
 -----
 
 ## Useful links: 
 https://www.youtube.com/watch?v=pWLOVW8_5mk
+
 https://pris.ly/day2021-amplication
+
 https://docs.amplication.com/docs/
 

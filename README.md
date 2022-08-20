@@ -33,6 +33,7 @@ You can login into the Admin UI using below information:
 - Password: admin
 
 If you want to try the amplication dashboard, you can use [https://app.amplication.com/](https://app.amplication.com/) to create new project.
+
 -----
 
 ## Useful links: 

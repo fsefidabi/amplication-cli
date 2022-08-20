@@ -21,7 +21,7 @@ Please check the existing README.md file in the `server` directory for more info
 - ### Admin UI
 To start the admin-ui please run the following commands: 
 ```bash
-$ cd ../admin-ui
+$ cd admin-ui
 $ npm i
 $ npm start
 ```
